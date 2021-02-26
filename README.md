@@ -12,7 +12,10 @@ Number of Instances: 398
 Number of Attributes: 9 including the class attribute
 
 # Attribute Information:
-mpg: continuous cylinders: multi-valued discrete displacement: continuous horsepower: continuous weight: continuous acceleration: continuous model year: multi-valued discrete origin: multi-valued discrete car name: string (unique for each instance) Missing Attribute Values: horsepower has 6 missing values
+mpg: continuous cylinders: multi-valued discrete displacement: continuous horsepower: continuous<b/>
+weight: continuous acceleration: continuous model year: multi-valued discrete origin: multi-valued<b/>
+discrete car name: string (unique for each instance) Missing Attribute Values: horsepower has 6 missing<b/>
+values
 
 # Libraries Involved:<b/>
 1. pandas<b/>
