@@ -14,21 +14,21 @@ Number of Attributes: 9 including the class attribute
 # Attribute Information:
 mpg: continuous cylinders: multi-valued discrete displacement: continuous horsepower: continuous weight: continuous acceleration: continuous model year: multi-valued discrete origin: multi-valued discrete car name: string (unique for each instance) Missing Attribute Values: horsepower has 6 missing values
 
-# Libraries Involved:
-pandas
-Numpy
-Seaborn
-Matplotlib
-Sklearn
-# Steps Involved:
-Importing the libraries
-Loading the dataset
-Data Preprocessing
-Study Correlation
-Univariate Analysis
-Bivariate Analysis
-train and test data split
-Building the model
-# Machine Learning Steps Involved
-Linear Regression
-Polynomial Regression
+# Libraries Involved:<b/>
+pandas<b/>
+Numpy<b/>
+Seaborn<b/>
+Matplotlib<b/>
+Sklearn<b/>
+# Steps Involved:<b/>
+Importing the libraries<b/>
+Loading the dataset<b/>
+Data Preprocessing<b/>
+Study Correlation<b/>
+Univariate Analysis<b/>
+Bivariate Analysis<b/>
+train and test data split<b/>
+Building the model<b/>
+# Machine Learning Steps Involved<b/>
+Linear Regression<b/>
+Polynomial Regression<b/>
