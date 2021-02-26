@@ -1,5 +1,5 @@
 # Predict_Mileage_per_gallon_mps<b/>
-Project Description:
+Project Description:<b/>
 The following project aims to predict mileage per gallon(mps) using various technical specifications (features) as input to the regression algorithms.
 
 Database Description:
