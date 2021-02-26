@@ -20,7 +20,7 @@ Numpy
 Seaborn
 Matplotlib
 Sklearn
-Steps Involved:
+# Steps Involved:
 Importing the libraries
 Loading the dataset
 Data Preprocessing
@@ -29,6 +29,6 @@ Univariate Analysis
 Bivariate Analysis
 train and test data split
 Building the model
-Machine Learning Steps Involved
+# Machine Learning Steps Involved
 Linear Regression
 Polynomial Regression
